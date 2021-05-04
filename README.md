@@ -18,7 +18,7 @@ $ git clone <https://github.com/ihuri/podcast_nlw5>
 $ cd podcast_nlw5
 
 # Instale as dependências
-$ npm install
+$ npm install next
 
 # Execute o arquivo server.json para emular uma api
 $ npm run server
